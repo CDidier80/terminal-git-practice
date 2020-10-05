@@ -23,3 +23,4 @@ README.md    info.yml     solutions.md
  create mode 100644 solutions.md
 ➜  terminal-git-practice git:(solutions) code solutions.md
 ➜  terminal-git-practice git:(solutions) cd ~/.bash_history
+mkdir ~/ga
